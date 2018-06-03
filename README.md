@@ -9,4 +9,5 @@ This sheet gets updated every time `comp` function is used.
 ```
 a = comp('filename.xlsx',threshold)
 ```
+xappend.m is used for adding data into the next row of an already existing excel sheet.
 
